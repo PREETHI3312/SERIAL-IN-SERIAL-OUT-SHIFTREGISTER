@@ -52,6 +52,7 @@ endmodule
 
 */
 
+
 **RTL LOGIC FOR SISO Shift Register**
 ![image](https://github.com/user-attachments/assets/02751ce1-9dc2-4c6e-8205-4e7eac5ff2f1)
 
